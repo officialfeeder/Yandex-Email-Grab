@@ -8,8 +8,9 @@
 <b /><br />6.Buka Security <br />![logo](https://i.ibb.co/cvftGqt/SECURITY.png)
 
 # HOW TO USE / CARA PEMAKAIAN
-<b /><br />1.pip install html2text
-<b /><br />2.Python3 cok.py
+<b /><br />1.git clone https://github.com/officialfeeder/Yandex-Email-Grab
+<b /><br />2.pip install html2text
+<b /><br />3.Python3 cok.py
 
 <b /> NOTE :
 THIS SCRIPTS USING PYTHON 3
